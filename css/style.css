@@ -1,0 +1,44 @@
+td{
+    border:20px 25px;
+    font-size: 20px;
+    text-align: center;
+}
+td{
+    color:black;
+}
+.mithila{
+    background-color: red;
+}
+h1{
+    color:rgb(28, 235, 21) ;
+    font-size: 50px;
+}
+td:hover{
+    background-color: brown;
+    transition: 2s;
+    color: yellow;
+}
+.Morning{
+    margin: 10px;
+    background-color: rgb(212, 149, 158);
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 9px 5px 17px burlywood;
+    font-size: 20px;
+   
+}
+.Morning a{
+    text-decoration: none;
+}
+.morning1{
+    background-color: chocolate;
+    color: darkred;
+
+}
+h1{
+    padding: 10px 77px;
+    background-color: cyan;
+    display: inline-block;
+}
+
